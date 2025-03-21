@@ -12,6 +12,7 @@ namespace ConsoleApp1
             double parsedSum = double.Parse(Pay);
             double resultEuro = parsedSum / EurCost;
             Console.WriteLine("You pay: " + Pay + " And u get: " + resultEuro + NameValue);
+            Console.WriteLine("Well");
 
 
         }
